@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week in Review – #24
+title: Week in Review - 24
 description: "A week in review of my bug bounty work."
 category: blog
 ---
